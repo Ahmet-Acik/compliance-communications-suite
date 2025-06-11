@@ -1,5 +1,7 @@
 package com.example.pages;
 
+import org.openqa.selenium.WebElement;
+
 public class BasePage {
     protected void waitForElementToBeVisible(WebElement element) {
         // Implementation for waiting for an element to be visible

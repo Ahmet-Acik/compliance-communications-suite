@@ -1,13 +1,14 @@
 package com.example.tests;
 
-import org.junit.After;
-import org.junit.Before;
-import org.junit.Test;
-import static org.junit.Assert.assertTrue;
+import org.junit.jupiter.api.AfterEach;
+import org.junit.jupiter.api.BeforeAll;
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class SampleTest extends BaseTest {
 
-    @Before
+    @BeforeAll
     public void setUp() {
         // Code to set up the test environment
     }
@@ -15,10 +16,10 @@ public class SampleTest extends BaseTest {
     @Test
     public void sampleTestMethod() {
         // Sample test logic
-        assertTrue("Sample test assertion", true);
+        assertTrue(true, "Sample test assertion");
     }
 
-    @After
+    @AfterEach
     public void tearDown() {
         // Code to clean up after the test
     }
