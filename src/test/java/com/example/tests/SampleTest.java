@@ -1,6 +1,7 @@
 package com.example.tests;
 
 import org.junit.jupiter.api.AfterEach;
+import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
@@ -8,7 +9,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class SampleTest extends BaseTest {
 
-    @BeforeAll
+    @BeforeEach
     public void setUp() {
         // Code to set up the test environment
     }

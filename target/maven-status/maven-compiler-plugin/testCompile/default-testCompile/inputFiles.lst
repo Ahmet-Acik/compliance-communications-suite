@@ -1,0 +1,12 @@
+/Users/drahmetacik/Projects/compliance-communications-suite /src/test/java/com/example/compliance/access/AccessControlTest.java
+/Users/drahmetacik/Projects/compliance-communications-suite /src/test/java/com/example/compliance/archiving/DataRetentionTest.java
+/Users/drahmetacik/Projects/compliance-communications-suite /src/test/java/com/example/compliance/export/ExportReportingTest.java
+/Users/drahmetacik/Projects/compliance-communications-suite /src/test/java/com/example/compliance/incident/IncidentResponseTest.java
+/Users/drahmetacik/Projects/compliance-communications-suite /src/test/java/com/example/compliance/integration/IntegrationCompatibilityTest.java
+/Users/drahmetacik/Projects/compliance-communications-suite /src/test/java/com/example/compliance/integrity/MessageIntegrityTest.java
+/Users/drahmetacik/Projects/compliance-communications-suite /src/test/java/com/example/compliance/policy/PolicyEnforcementTest.java
+/Users/drahmetacik/Projects/compliance-communications-suite /src/test/java/com/example/compliance/regulatory/RegulatoryCoverageTest.java
+/Users/drahmetacik/Projects/compliance-communications-suite /src/test/java/com/example/compliance/search/SearchEDiscoveryTest.java
+/Users/drahmetacik/Projects/compliance-communications-suite /src/test/java/com/example/compliance/user/UserExperienceTest.java
+/Users/drahmetacik/Projects/compliance-communications-suite /src/test/java/com/example/tests/BaseTest.java
+/Users/drahmetacik/Projects/compliance-communications-suite /src/test/java/com/example/tests/SampleTest.java
