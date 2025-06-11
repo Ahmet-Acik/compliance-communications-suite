@@ -1,0 +1,19 @@
+{
+  "testData": [
+    {
+      "testCase": "LoginTest",
+      "username": "testUser",
+      "password": "testPassword",
+      "expectedResult": "Login successful"
+    },
+    {
+      "testCase": "SearchTest",
+      "searchQuery": "Maui",
+      "expectedResultsCount": 10
+    },
+    {
+      "testCase": "LogoutTest",
+      "expectedResult": "Logout successful"
+    }
+  ]
+}
